@@ -395,7 +395,10 @@ async function startHost(){
 }
 async function createNewHostOffer(){
 	// create a fresh RTCPeerConnection waiting for a joiner
-	const pc = new RTCPeerConnection({ iceServers: [] });
+	const pc = new RTCPeerConnection({ iceServers: [
+		{ urls: 'stun:stun.l.google.com:19302' },
+		{ urls: 'stun:stun1.l.google.com:19302' }
+	] });
 	const dc = pc.createDataChannel('game');
 	const joinId = Math.random().toString(36).slice(2,9);
 	pendJoinId = joinId;
@@ -432,7 +435,10 @@ async function joinHost(){
 	if (joiningInProgress) return;
 	joiningInProgress = true;
 	isHost = false;
-	rtcPeer = new RTCPeerConnection({ iceServers: [] });
+	rtcPeer = new RTCPeerConnection({ iceServers: [
+		{ urls: 'stun:stun.l.google.com:19302' },
+		{ urls: 'stun:stun1.l.google.com:19302' }
+	] });
 	rtcPeer.ondatachannel = e=>{ dataChannel = e.channel; wireDataChannel(e.channel, 'host'); };
 	let currentOfferId = null;
 	rtcPeer.onicecandidate = e=>{ if (e.candidate) return; const payload = { sdp: rtcPeer.localDescription }; if (currentOfferId) payload.id = currentOfferId; taJoinAnswer.value = btoa(JSON.stringify(payload)); if (joinStatusEl) joinStatusEl.textContent='Send this reply to host then click Enter World'; const btnEnter=document.getElementById('btn-join-enter'); if (btnEnter) btnEnter.disabled=false; };
