@@ -1,0 +1,62 @@
+END USER LICENSE AGREEMENT (EULA)
+Version 1.1 – Effective 2025-08-11
+
+IMPORTANT: READ CAREFULLY BEFORE INSTALLING, ACCESSING, OR USING THE GAME.
+By launching or using the Game ("Software"), you agree to be bound by this EULA.
+If you do not agree, do not install or use the Software.
+
+1. LICENSE GRANT
+You are granted a limited, personal, revocable, non-transferable, non-sublicensable license to download and play the Software in object/binary form for your own non-commercial entertainment. All rights not expressly granted remain with the Owner.
+
+2. OWNERSHIP
+The Software (including code, art, audio, mechanics expression, data structures, and all associated intellectual property) is owned by the Owner and protected by copyright and other laws.
+
+3. RESTRICTIONS
+You shall NOT:
+ - Copy, redistribute, publish, mirror, or make the Software publicly available.
+ - Modify, translate, reverse engineer, decompile, disassemble, or attempt to derive source code (except where mandatory law permits limited reverse engineering for interoperability—only after prior written request).
+ - Create derivative works, adaptations, or sequels based on any portion of the Software.
+ - Circumvent or remove any technical protection or notices.
+ - Sell, rent, lease, license, sublicense, or exploit the Software commercially.
+ - Use the Software for cheating, malicious automated interaction, or security testing without consent.
+
+4. USER CONTENT
+If you submit feedback or suggestions, you grant the Owner a perpetual, irrevocable, worldwide, royalty-free license to use and incorporate them without obligation.
+
+5. UPDATES
+Owner may deploy patches, fixes, or updates that may change or remove features. Continued use after an update constitutes acceptance.
+
+6. TERMINATION
+This license ends automatically if you breach it. Upon termination you must cease use and destroy all copies. Provisions relating to ownership, disclaimers, limitation of liability, and governing law survive termination.
+
+7. THIRD-PARTY COMPONENTS
+Third-party libraries or assets, if any, remain governed by their respective licenses; a list (or placeholders) is maintained in ASSET_AUDIT.md.
+
+8. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+
+9. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, OWNER SHALL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR LOST PROFITS, EVEN IF ADVISED OF THE POSSIBILITY. AGGREGATE LIABILITY SHALL NOT EXCEED THE AMOUNT PAID (IF ANY) FOR THE SOFTWARE.
+
+10. INDEMNITY
+You agree to indemnify and hold Owner harmless from claims arising out of your breach or misuse.
+
+11. GOVERNING LAW
+Governed by the laws of the Owner's principal place of business, excluding conflict rules. The UN Convention on Contracts for the International Sale of Goods does not apply.
+
+12. SEVERABILITY
+If any provision is unenforceable, the remainder stays in effect.
+
+13. ENTIRE AGREEMENT
+This EULA constitutes the complete agreement regarding the Software.
+
+14. GAMEPLAY CAPTURE & STREAMING
+Permitted: You may record, capture, livestream, and publicly publish original gameplay (video, clips, screenshots) on platforms (e.g., YouTube, Twitch, social media) including earning standard platform ad revenue, tips, or donations, provided that you:
+ (a) Do not distribute the Software itself, source code, or extracted raw assets (art, audio, data files) outside of the recording.
+ (b) Do not use the content in a way that suggests endorsement or official partnership without written permission.
+ (c) Do not use recordings primarily as a vehicle to redistribute the game’s assets (e.g., sprite/tileset rips, isolated soundtrack dumps).
+ (d) Comply with any third‑party asset attribution requirements (if any) and remove content if a valid infringement notice is issued.
+ (e) Do not train or fine‑tune AI models on raw extracted assets; incidental inclusion of gameplay footage in platform algorithms is acceptable.
+Clarification: The “RESTRICTIONS” section above does not prohibit the sharing of original gameplay recordings allowed here. This section grants no additional license to reuse or adapt underlying assets outside the context of recorded gameplay.
+
+© 2025 SaVeGe. All rights reserved. Unauthorized use prohibited.

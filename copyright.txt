@@ -1,0 +1,48 @@
+Copyright (c) 2025 SaVeGe. All rights reserved.
+
+PROPRIETARY RIGHTS NOTICE
+This software project ("Software"), including but not limited to all source code, object code, gameplay logic, artwork, images, sprites, textures, animations, audio, sound effects, music, user interface layouts, fonts (except third‑party fonts under their own licenses), build scripts, data files, configuration files, binary distributions, and documentation (collectively, the "Assets"), is the exclusive property of SaVeGe ("Owner").
+
+UNAUTHORIZED USE PROHIBITED
+Without the prior express written permission of the Owner, you MAY NOT:
+  1. Copy, reproduce, mirror, host, or redistribute the Software or any Assets in whole or in part.
+  2. Modify, translate, adapt, reverse engineer (except to the limited extent any applicable law expressly permits), decompile, disassemble, or create derivative works from the Software or Assets.
+  3. Extract, reuse, republish, or bundle any artwork, images, textures, sprites, audio, or other Assets for use in another game, product, service, AI model training, dataset, or media compilation.
+  4. Commercialize, sell, rent, lease, sublicense, loan, or otherwise exploit the Software or Assets.
+  5. Remove, alter, or obscure copyright, trademark, or attribution notices.
+
+LIMITED PERMITTED USE
+Subject to full compliance with this notice, you are granted a limited, revocable, non‑transferable, non‑exclusive license solely to:
+  • Run the unmodified Software locally for personal, non‑commercial evaluation or gameplay.
+  • Retain one (1) backup copy strictly for archival purposes.
+  • Create, capture, livestream, and publish original gameplay session videos, clips, or screenshots (including monetization via ordinary platform ad revenue, tips, or donations) provided you: (a) do not distribute raw assets or source code; (b) do not misrepresent affiliation; (c) remove content upon a valid takedown request; (d) avoid presenting isolated asset rips (art/audio) outside normal gameplay context; and (e) do not use extracted assets to train AI models (incidental inclusion of gameplay footage in platform processing is acceptable).
+No other rights are granted, whether by implication, estoppel, or otherwise.
+
+OWNERSHIP
+All rights, title, and interest in and to the Software and Assets remain with the Owner. Any unauthorized use automatically terminates the limited license above and may constitute infringement under applicable law.
+
+THIRD‑PARTY COMPONENTS
+Certain third‑party libraries, icon fonts, or frameworks (e.g., Font Awesome, Tabler Icons, Google Fonts) are included under their own licenses. Their licenses govern your use of those specific components and NOTHING in this notice enlarges or restricts those third‑party rights.
+
+NO WARRANTY
+THE SOFTWARE AND ASSETS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON‑INFRINGEMENT. YOU ASSUME ALL RISK ARISING FROM USE OR PERFORMANCE.
+
+LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, GOODWILL, OR OTHER INTANGIBLE LOSSES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+INDEMNITY
+You agree to indemnify, defend, and hold harmless the Owner from any claims or demands (including reasonable attorneys' fees) arising out of or related to your unauthorized use of the Software or Assets or violation of this notice.
+
+ENFORCEMENT
+The Owner reserves all legal and equitable remedies for any breach. Lack of immediate enforcement shall not constitute a waiver of any right.
+
+TERMINATION
+This notice and the limited license automatically terminate if you breach any term. Upon termination you must immediately cease all use and destroy all copies and derivative materials.
+
+GOVERNING LAW
+Unless mandatory local law provides otherwise, this notice shall be governed by and construed in accordance with the laws applicable in the Owner's principal place of residence, without regard to conflict of laws principles.
+
+CONTACT
+To request permission or report infringement, contact: circlescaped@gmail.com
+
+If you do not agree to ALL terms above, you must not install, copy, access, or use the Software or any Assets.
